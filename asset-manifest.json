@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alejandromiranda-aircury/rick-morty-course/static/css/main.9c5ea9c8.css",
+    "main.js": "/alejandromiranda-aircury/rick-morty-course/static/js/main.4bb66215.js",
+    "static/js/787.38b0d000.chunk.js": "/alejandromiranda-aircury/rick-morty-course/static/js/787.38b0d000.chunk.js",
+    "static/media/rick-morty.png": "/alejandromiranda-aircury/rick-morty-course/static/media/rick-morty.ed9fa0be01b38da56af4.png",
+    "index.html": "/alejandromiranda-aircury/rick-morty-course/index.html",
+    "main.9c5ea9c8.css.map": "/alejandromiranda-aircury/rick-morty-course/static/css/main.9c5ea9c8.css.map",
+    "main.4bb66215.js.map": "/alejandromiranda-aircury/rick-morty-course/static/js/main.4bb66215.js.map",
+    "787.38b0d000.chunk.js.map": "/alejandromiranda-aircury/rick-morty-course/static/js/787.38b0d000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5ea9c8.css",
+    "static/js/main.4bb66215.js"
+  ]
+}
